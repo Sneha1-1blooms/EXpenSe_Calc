@@ -1,4 +1,4 @@
-# VOTING_EL
+# EXpenSe_Calc
 import random
 dict={}
 WORDS = ("python", "jumble", "easy", "difficult", "answer",  "xylophone")
